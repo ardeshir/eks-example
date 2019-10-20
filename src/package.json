@@ -14,6 +14,6 @@
     "webpack-cli": "^2.1.2"
   },
   "dependencies": {
-    "xterm": "^3.6.0"
+    "xterm": "^3.8.1"
   }
 }
